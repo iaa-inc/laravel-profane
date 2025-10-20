@@ -31,4 +31,4 @@ Also, you can contribute by adding new words in a existing dictionary. You MUST 
 
 ## Improvements
 
-Any other improvements are very welcome. Check for [issues](https://github.com/arandilopez/laravel-profane/issues). Remember to provide test for your changes.
+Any other improvements are very welcome. Check for [issues](https://github.com/iaa-inc/laravel-profane/issues). Remember to provide test for your changes.
