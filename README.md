@@ -15,7 +15,7 @@ I made this package to perform a validation for swearwords using Laravel validat
 Install via composer
 
 ```shell
-composer require arandilopez/laravel-profane
+composer require iaa-inc/laravel-profane
 ```
 
 ## Configuration
