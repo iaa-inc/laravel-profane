@@ -1,14 +1,6 @@
 # Laravel Profanity Validator
 
-[![Latest Stable Version](https://poser.pugx.org/arandilopez/laravel-profane/v/stable)](https://packagist.org/packages/arandilopez/laravel-profane)
-[![Total Downloads](https://poser.pugx.org/arandilopez/laravel-profane/downloads)](https://packagist.org/packages/arandilopez/laravel-profane)
-[![License](https://poser.pugx.org/arandilopez/laravel-profane/license)](https://packagist.org/packages/arandilopez/laravel-profane)
-[![Daily Downloads](https://poser.pugx.org/arandilopez/laravel-profane/d/daily)](https://packagist.org/packages/arandilopez/laravel-profane)
-[![composer.lock](https://poser.pugx.org/arandilopez/laravel-profane/composerlock)](https://packagist.org/packages/arandilopez/laravel-profane)
-![](https://travis-ci.org/arandilopez/laravel-profane.svg?branch=master)
-[![StyleCI](https://styleci.io/repos/63648834/shield?branch=master)](https://styleci.io/repos/63648834)
-
-I made this package to perform a validation for swearwords using Laravel validation service.
+Fork of (arandialopez/laravel-profane)[https://github.com/arandilopez/laravel-profane] 
 
 ## Installation
 
@@ -62,7 +54,7 @@ class MyController extends Controller
 }
 ```
 
-The validator will load the default locale in your `config/app.php` file configuration which by is `en`. **If your locale is not supported, please [post an issue for this project](https://github.com/arandilopez/laravel-profane/issues)**
+The validator will load the default locale in your `config/app.php` file configuration which by is `en`. **If your locale is not supported, please [post an issue for this project](https://github.com/iaa-inc/laravel-profane/issues)**
 
 If you want to use others dictionaries you can pass them as parameters in the validator.
 
@@ -124,7 +116,7 @@ This fixes known issues when you get a error in validation for words like `class
 
 ## Getting Help
 
-If you're stuck getting something to work, or need to report a bug, please [post an issue in the Github Issues for this project](https://github.com/arandilopez/laravel-profane/issues).
+If you're stuck getting something to work, or need to report a bug, please [post an issue in the Github Issues for this project](https://github.com/iaa-inc/laravel-profane/issues).
 
 ## Contributing
 
